@@ -1,7 +1,6 @@
 [
   "mod/ModLoaderGui/ModLoaderGui.mod.zip",
   "mod/ConflictChecker/ConflictChecker.mod.zip",
-  "mod/ImageLoaderHook/ModLoader DoL ImageLoaderHook.mod.zip",
   "mod/ModSubUiAngularJs/ModSubUiAngularJs.mod.zip",
   "mod/BeautySelectorAddon/BeautySelectorAddon.mod.zip",
   "mod/ImageLoaderHook2BeautySelectorAddon/ImageLoaderHook2BeautySelectorAddon.mod.zip",
